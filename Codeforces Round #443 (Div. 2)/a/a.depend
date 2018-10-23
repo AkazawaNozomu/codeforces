@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509030181 source:g:\cpp\codeforces round #443 (div. 2)\a\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
