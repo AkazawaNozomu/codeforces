@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1518613214 source:g:\cpp\codeforces round #462 (div. 2)\b\main.cpp
-	<iostream>
-	<cstdlib>
-	<cstring>
-	<cstdio>
-	<cmath>
-	<algorithm>
-
